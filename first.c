@@ -8,4 +8,5 @@ void print(void)
     printf("why not me.\n");
     printf("what happen.\n");
     printf("so interesting.\n");
+    printf("modify first.c in master");
 }
