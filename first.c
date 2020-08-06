@@ -7,4 +7,5 @@ void print(void)
     printf("i am xiaosong.\n");
     printf("why not me.\n");
     printf("what happen.\n");
+    printf("so interesting.\n");
 }
