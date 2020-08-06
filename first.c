@@ -4,4 +4,5 @@
 void print(void)
 {
     printf("learning git is ok.\n");
+    printf("i am xiaosong.\n");
 }
